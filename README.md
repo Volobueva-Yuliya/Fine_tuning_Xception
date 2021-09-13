@@ -5,3 +5,7 @@
 https://cups.mail.ru/ru/tasks/1087
 
 Основным источником данных являлась ФГИС «государственного каталога Музейного фонда Российской Федерации».
+
+Примеры изображений:
+<img align="right" src="https://github.com/Volobueva-Yuliya/Fine_tuning_Xception/blob/main/img/1.jpg" width="400" />  
+<img align="right" src="https://github.com/Volobueva-Yuliya/Fine_tuning_Xception/blob/main/img/2.jpg" width="400" />  
